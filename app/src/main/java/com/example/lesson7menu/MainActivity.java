@@ -93,7 +93,7 @@ public class MainActivity extends AppCompatActivity {
     }
 //
 
-    
+
     private boolean navigateFragment(int id) {
         switch (id) {
             case R.id.action_settings:
